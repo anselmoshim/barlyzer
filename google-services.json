@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "501124901156",
+    "firebase_url": "https://barlyzer.firebaseio.com",
+    "project_id": "barlyzer",
+    "storage_bucket": "barlyzer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501124901156:android:e184f33da5489394",
+        "android_client_info": {
+          "package_name": "com.couchbase.todolite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501124901156-ao01dsujq3c7c286i5n15sn7s5o6a9vc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEBZtiDHUsWMJDEjrhbTBJtag8RfUKWI8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
